@@ -1,0 +1,16 @@
+ABOUT 
+<!DOCTYPE html>
+<head>
+<title> about us</title>
+<link rel="stylesheet" type="text/css" href="css/about1.css">
+</head>
+<body>
+<div id="topbar">
+</div>
+<div id= "container1">
+<h1>THIS PAGE CONTAINS INFORMATION ABOUT US</h1>
+<p>
+.</br>
+</div>
+</body>
+</html>
