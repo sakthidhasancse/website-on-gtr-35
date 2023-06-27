@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head>
+<title> about us</title>
+<link rel="stylesheet" type="text/css" href="css/contact.css">
+</head>
+<body>
+<div id= "container1">
+<h1>THIS PAGE CONTAINS INFORMATION ABOUT US</h1>
+<p></br></p>
+<h4>TO CONTACT US:</h4>
+<p></br>
+</p>
+<div id="thank you">
+<p>THANK YOU !!!!</p>
+</div>
+</div>
+</body>
+</html>
