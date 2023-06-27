@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<head>
+<title>nissangtr</title>
+<link rel="stylesheet" type="text/css" href="css/style.css" >
+</head>
+<body>
+<div id="topbar">
+</div>
+<div id="container">
+<div id="header">
+<imgsrc="images/logo.png" />
+<ul>
+<li><a href="#"> HOME </a></li>
+<li><a href="./about.html"> ABOUT </a></li>
+<li><a href="./gallery.html"> GALLERY </a></li>
+<li><a href="./contact us.html"> CONTACT US </a></li>
+</UL>
+</div>
+<div id="banner">
+<imgsrc="images/banner.jpg" />
+</div>
+<div id="content1">
+<h4 class="heading">WELCOME!</h4>
+<p class="para1"><b> "HELLO GUYS WELCOME TO OUR WEBSITE"</b></br>This 
+websites contains the information of famous NISSAN'S car known as GTR 35 here
+you can get more info about this one.</p>
+</div>
+<div id="content2">
+<h4 class="heading"> ORIGIN OF NISSAN:</h4>
+<p class="para1"> Ranked amongst the topmost automakers of the world today ,nissan motor 
+company ltd. Is a <b>japanese multinational car-manufacturing company 
+headquarted in NISHI-KU YOKOHAMA</b>,the beginnings of whose automotive date back to 
+as early a time as december 1933.</p>
+</div>
+<div id="content3">
+<h4 class="heading">ABOUT US!</h4>
+<p class="para1">This website was created by college students as a team....as the initial stage of 
+website it contains only few information...this
+website will be developed soon....</p>
+</div>
+<div id="bottom1">
+<h3>AVAILABLE IN INDIA:</h3>
+<p>Nissan India has launched this sports car in one variant, Nissan GT-R R35 Premium which 
+is priced at Rs 2.12 crore ex-showroom India.</p>
+<h3>TO GET A GTR IN INDIA:</h3>
+<p>
+. </p>
+<h3>HOW TO GET A GTR</h3>
+<p>
+the car is too expencive. </br></p>
+<h3>HISTORY:</h3>
+<p>
+</p>
+<h3> BANKING AND IMPORTANT DETAILS:</h3>
+<p>In this you can get information about the banking details for GTR car and also the 
+required important documents and details.</br></br>
+<a href="./details.html"> BANKING AND IMPORTANT DETAILS </a></br>
+<h3>INFORMATION:</h3>
+<p>The <b>Nissan GT-R (Gran Turismo -Race)</b>is high-perfomance sports car and grand 
+toure produce by <b>nissan</b>
+p>
+<h3>SAFTEY AND...</h3>
+<p>loreaipusum.....</p>
+<a href="./saftey.html">saftey and..</a></br></br>
+</div>
+<div id="bottom3">
+<h3>ENGINE:</h3>
+<p>
+<imgsrc="images/banner3.jpg"/>
+<h3>POLICE USE:</h3>
+<p>
+<imgsrc="images/police.jpg">
+<h3>GT-R GT1</h3>
+<p>
+<ul>
+<li>Displacement: DOHC naturally aspirated V8 front mid-engine 5,552 cc (5.6 L; 338.8 cu 
+in)</li></br>
+<li>Power output: 600 PS; 591 hp; 600 PS (capped – GT1 regulations)</li></br>
+<li>Valves Per Cylinder: 4</li></br>
+<li>Torque: 649.91 N⋅m (479.35 lb⋅ft)</li></br>
+<li>Drivetrain: Rear-wheel drive</li></br>
+<li>Curb weight: 1,250 kg (2,756 lb) (as per GT1 regulations)</li></br>
+<li>Transmission: Ricardo 6-speed transaxle, sequential shift lever, 5.5-inch carbon triple-plate 
+clutch</li></br>
+<li>Suspension: Adjustable suspension with double wishbones front and multi-link 
+rear</li></br>
+<li>Brakes: Brembo 6-piston calipers with carbon discs and pads</li></br>
+<li>Tires: Front and rear Michelin 31/71-18 (GT1 controlled specification)</li></br></p>
+</ul>
+<h3>Drag Racing:</h3>
+</div>
+<div id="bottom4">
+<imgsrc= "images/banner4.jpg" />
+</div>
+<div id="footer">
+<p>&copy;2022 | DESIGNED BY SABESH AND TEAM</p>
+</div>
+</body>
+</html>
